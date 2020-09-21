@@ -1,0 +1,6 @@
+*.csv
+*.txt
+*.arff
+.vscode
+.vscode/*
+test.py
